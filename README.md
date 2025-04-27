@@ -1,4 +1,4 @@
-# Inventory Management API
+# Inventory Management API Using Vercel
 
 ## Deskripsi
 API untuk manajemen inventaris yang berjalan di Vercel. API ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada item inventaris tanpa bergantung pada database eksternal, menggunakan data dummy yang disimpan dalam memori.
